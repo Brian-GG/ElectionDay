@@ -1,2 +1,2 @@
 # ElectionDay
-A memory game designed to induce feelings of deja vu. A good unity project to learn more advanced scene management as well as scriptable objects. Created for the 2020 Berklee College of Music Game Jam. 
+A memory game designed to induce feelings of deja vu. A good unity project to learn more advanced scene management as well as scriptable objects. Created for the 2020 Berklee College of Music Game Jam. Submission: https://itch.io/jam/video-game-music-jam/rate/815131
